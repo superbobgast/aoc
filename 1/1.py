@@ -3,7 +3,7 @@
 import pandas as pd
 import math
 
-df = pd.read_csv('input.csv')
+df = pd.read_csv('./1/input/input.csv')
 df.head()
 
 # %%
